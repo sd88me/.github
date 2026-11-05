@@ -2,14 +2,14 @@
 
 Hey, thanks for stopping by! Everything here is free, and it'll stay that way.
 
-But building, porting and debugging this stuff takes hours in the studio, and those hours come
-out of my wife's time. So if a plugin made your track sound better, a tip helps me:
+Developing, Hacking, Building, porting and debugging is my passionat ehobby and I do it for the love! But the real problem is this stuff takes hours in the studio, and those hours come
+out of my wife's time. So if any of my work made your track sound better, or your day a little bit more fun then a tip helps me:
 
 - ☕ **Buy me a coffee**: fuels the 2 a.m. debugging sessions
 - 🍺 **Buy me a beer**: for when it finally compiles and the sound comes out right
 - 💐 **Buy my wife flowers**: for putting up with "just five more minutes" (it was not five minutes)
 
-Every tip goes straight toward more plugins, and toward making it up to her. Honestly, the flowers
+Every tip goes straight toward more work, and toward making it up to her. Honestly, the flowers
 are the real priority.
 
 **Tip jar:** https://ko-fi.com/sd88me (one-off or monthly, no account needed)
